@@ -40,7 +40,7 @@ function raprap_cf7_data( $form_data ) {
  
      ];
 
-    $url = 'https://script.google.com/macros/s/AKfycbyU3yt7MEsDlEbFU_7m0MywsW4i1jlxd7QPaAfWTIEC06LRrMYJQsAabhyCU6Rz304Qew/exec';
+    $url = 'YOUR-SPREADSHEET-SCRIPT-URL-HERE';
 
     $args = [
         'method' => 'POST',
